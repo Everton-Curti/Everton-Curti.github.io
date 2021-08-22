@@ -1,0 +1,44 @@
+body{
+    background: #b1b1c3;
+}
+
+.nome{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.foto{
+    position: absolute;
+    padding: 10px; 
+    background-color: orange;        
+}
+
+.descricao{
+    position:absolute;
+    right: 50%;
+    top:30%; 
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+    font-style: italic; 
+}
+
+.restante{
+    position: absolute;
+    top: 530px;
+    padding: 10px;
+}
+
+ul{
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic; 
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+
+li{
+    padding:5px;
+}
